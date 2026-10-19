@@ -1,0 +1,212 @@
+[
+  {
+    "ticket_id": "S-001",
+    "message": "I was charged twice for my monthly subscription.",
+    "expected_category": "Billing",
+    "expected_priority": "High",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-002",
+    "message": "Please send me a copy of the invoice for last month.",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-003",
+    "message": "I need a refund for a payment that failed.",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-004",
+    "message": "The renewal fee on my account looks incorrect.",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-005",
+    "message": "My credit card payment is showing as pending.",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-006",
+    "message": "I was overcharged for the annual plan.",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-007",
+    "message": "Where can I download my payment receipt?",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-008",
+    "message": "Please explain this billing invoice.",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-009",
+    "message": "I need to cancel a subscription and confirm the final charge.",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-010",
+    "message": "There is a duplicate charge on my account.",
+    "expected_category": "Billing",
+    "expected_priority": "High",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-011",
+    "message": "The application crashes whenever I upload a file.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-012",
+    "message": "The dashboard is slow and keeps loading.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-013",
+    "message": "We have a complete outage and all users are affected.",
+    "expected_category": "Technical",
+    "expected_priority": "Critical",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-014",
+    "message": "I found a bug on the reports screen.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-015",
+    "message": "The server returns an error when I save changes.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-016",
+    "message": "The screen freezes after I click the export button.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-017",
+    "message": "The application is not working after the latest update.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-018",
+    "message": "The production system is down for every user.",
+    "expected_category": "Technical",
+    "expected_priority": "Critical",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-019",
+    "message": "A file upload failed with an exception.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-020",
+    "message": "The settings page failed to load.",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-021",
+    "message": "I cannot log in because I forgot my password.",
+    "expected_category": "Access",
+    "expected_priority": "High",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-022",
+    "message": "I am locked out of my account.",
+    "expected_category": "Access",
+    "expected_priority": "High",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-023",
+    "message": "How do I reset my password?",
+    "expected_category": "Access",
+    "expected_priority": "Medium",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-024",
+    "message": "The verification code for two-factor authentication never arrives.",
+    "expected_category": "Access",
+    "expected_priority": "Medium",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-025",
+    "message": "I cannot access my account after signing in.",
+    "expected_category": "Access",
+    "expected_priority": "High",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-026",
+    "message": "Where can I find the product documentation?",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-027",
+    "message": "What are your business hours?",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-028",
+    "message": "Is this product available for small teams?",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-029",
+    "message": "I have a feature request for the next release.",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-030",
+    "message": "Hello, I would like more product information.",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  }
+]

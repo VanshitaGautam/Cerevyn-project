@@ -1,0 +1,182 @@
+[
+  {
+    "ticket_id": "S-001",
+    "expected_category": "Billing",
+    "expected_priority": "High",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-002",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-003",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-004",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-005",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-006",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-007",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-008",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-009",
+    "expected_category": "Billing",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-010",
+    "expected_category": "Billing",
+    "expected_priority": "High",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-011",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-012",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-013",
+    "expected_category": "Technical",
+    "expected_priority": "Critical",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-014",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-015",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-016",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-017",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-018",
+    "expected_category": "Technical",
+    "expected_priority": "Critical",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-019",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-020",
+    "expected_category": "Technical",
+    "expected_priority": "Medium",
+    "split": "train"
+  },
+  {
+    "ticket_id": "S-021",
+    "expected_category": "Access",
+    "expected_priority": "High",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-022",
+    "expected_category": "Access",
+    "expected_priority": "High",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-023",
+    "expected_category": "Access",
+    "expected_priority": "Medium",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-024",
+    "expected_category": "Access",
+    "expected_priority": "Medium",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-025",
+    "expected_category": "Access",
+    "expected_priority": "High",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-026",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-027",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-028",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-029",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  },
+  {
+    "ticket_id": "S-030",
+    "expected_category": "General",
+    "expected_priority": "Low",
+    "split": "test"
+  }
+]
